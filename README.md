@@ -1,4 +1,4 @@
-# Repository for Research
+# Research Repo
 * This repository includes files and programs from my research assistant position during the Spring and Summer of 2023
 
 ## What is the research?
