@@ -2,8 +2,8 @@
 * This repository includes files and programs from my research assistant position during the Spring and Summer of 2023
 
 ## What is the research?
-* I am currently an undergraduate research assistant working with professor Pin-Kuang Lai
-* The research is on predicting the bioavailability of monoclonal antbodies using machine learning
+* I worked in the Spring of 2023 as an undergraduate research assistant with Professor Pin-Kuang Lai
+* The research was on predicting the bioavailability of monoclonal antbodies using machine learning
 * Hopefully there will be a published paper soon on my research and it's results
 
 ## Relevant Papers
